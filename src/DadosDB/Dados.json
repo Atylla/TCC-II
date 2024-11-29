@@ -1,0 +1,252 @@
+{
+    "funções": [
+      {
+
+        "nome": "Operador de Máquinas Pesadas",
+        "descrição": "Responsável pela operação de equipamentos pesados, como escavadeiras, guindastes e empilhadeiras. Exige treinamento específico, atenção a normas de segurança e uso de EPIs para evitar acidentes e proteger a saúde auditiva."
+      },
+      {
+        "nome": "Eletricista Industrial",
+        "descrição": "Atua na instalação, manutenção e reparo de sistemas elétricos industriais. Envolve riscos de choque elétrico e queimaduras, necessitando de EPIs isolantes, além de procedimentos para bloqueio e travamento de circuitos."
+      },
+      {
+        "nome": "Soldador",
+        "descrição": "Realiza soldagens em estruturas metálicas, exposto a riscos de queimaduras, inalação de fumos metálicos e radiação ultravioleta. Exige proteção ocular, respiratória e vestimenta especial para minimizar os riscos."
+      },
+      {
+        "nome": "Auxiliar de Logística",
+        "descrição": "Atua na movimentação, organização e transporte de materiais em armazéns. Riscos incluem lesões ergonômicas e acidentes com empilhadeiras, requerendo treinamento adequado e uso de EPIs como luvas e calçados de segurança."
+      },
+      {
+        "nome": "Técnico de Laboratório Químico",
+        "descrição": "Manipula reagentes químicos e substâncias potencialmente perigosas. Envolve riscos de exposição a substâncias tóxicas, exigindo uso de luvas, óculos de proteção e ventilação adequada."
+      },
+      {
+        "nome": "Enfermeiro",
+        "descrição": "Responsável pelos cuidados com pacientes, incluindo administração de medicamentos e procedimentos de emergência. Riscos de exposição biológica exigem uso de EPIs, como luvas e máscaras, e conhecimento em biossegurança."
+      },
+      {
+        "nome": "Operador de Caldeira",
+        "descrição": "Opera caldeiras industriais para aquecimento de processos. Envolve riscos de queimaduras e explosões, demandando controle rigoroso de pressão, uso de proteção térmica e treinamentos específicos."
+      },
+      {
+        "nome": "Pintor Industrial",
+        "descrição": "Realiza pintura em grandes estruturas, muitas vezes em locais altos e confinados, com exposição a solventes e produtos químicos. Exige EPIs como máscaras respiratórias e capacitação em manuseio de produtos perigosos."
+      },
+      {
+        "nome": "Motorista de Transporte de Cargas Perigosas",
+        "descrição": "Transporta materiais perigosos, como produtos inflamáveis ou corrosivos. Exige capacitação em normas de transporte de materiais perigosos, uso de EPIs, e procedimentos específicos em caso de vazamento ou acidente."
+      }
+    ],
+    "riscos": [
+      {
+        "nome": "Queda de Altura",
+        "descrição": "Possibilidade de quedas durante trabalhos em lugares elevados, como andaimes, telhados ou escadas. Exige uso de sistemas de ancoragem, cintos de segurança e capacitação em trabalho em altura."
+      },
+      {
+        "nome": "Choque Elétrico",
+        "descrição": "Exposição a circuitos energizados ou falhas elétricas. Pode causar queimaduras, parada cardíaca e até óbito. Exige isolamento elétrico, ferramentas adequadas e protocolos de bloqueio e etiquetagem."
+      },
+      {
+        "nome": "Exposição a Substâncias Químicas",
+        "descrição": "Exposição a agentes químicos tóxicos, corrosivos ou inflamáveis. Pode causar intoxicação, queimaduras e reações alérgicas. Exige uso de EPIs específicos, ventilação adequada e armazenamento seguro."
+      },
+      {
+        "nome": "Esmagamento",
+        "descrição": "Possibilidade de ser prensado ou atingido por objetos ou máquinas pesadas, comum em operações industriais e de construção civil. Exige áreas de circulação bem definidas, sinalização e dispositivos de segurança nas máquinas."
+      },
+      {
+        "nome": "Inalação de Poeiras e Fumos",
+        "descrição": "Exposição a partículas suspensas no ar, como poeiras de madeira ou fumos metálicos, pode causar doenças respiratórias e intoxicação. Exige uso de máscaras respiratórias e sistemas de exaustão."
+      },
+      {
+        "nome": "Contaminação Biológica",
+        "descrição": "Exposição a agentes biológicos como vírus, bactérias e fungos, comum em hospitais e laboratórios. Exige higienização adequada, uso de EPIs como luvas e máscaras e protocolos de biossegurança."
+      },
+      {
+        "nome": "Incêndio e Explosão",
+        "descrição": "Risco presente em locais com materiais inflamáveis, como gases e produtos químicos. Exige sistemas de combate a incêndio, sinalização de rotas de fuga e treinamento em evacuação e combate ao fogo."
+      },
+      {
+        "nome": "Ergonométrico",
+        "descrição": "Risco de lesões devido à postura inadequada, esforços repetitivos ou levantamento de peso excessivo. Comum em ambientes de escritório, produção e logística. Exige ajuste ergonômico e treinamentos de boas práticas."
+      },
+      {
+        "nome": "Ruído Excessivo",
+        "descrição": "Exposição prolongada a ruídos elevados pode causar perda auditiva e estresse. Comum em fábricas e canteiros de obra. Exige uso de protetores auditivos e controle do nível de ruído ambiental."
+      },
+      {
+        "nome": "Radiação",
+        "descrição": "Exposição a radiações ionizantes ou não ionizantes, comum em laboratórios e setores de saúde. Pode causar queimaduras e, a longo prazo, câncer. Exige uso de barreiras de proteção e monitoramento dos níveis de exposição."
+      }
+    ],
+    "EPIs": [
+      {
+        "nome": "Capacete de segurança",
+        "descrição": "Equipamento de proteção utilizado para proteger a cabeça contra impactos, quedas de objetos ou choques. Essencial em obras, indústrias e ambientes de risco de queda de materiais."
+      },
+      {
+        "nome": "Luvas de Proteção",
+        "descrição": "Luvas usadas para proteger as mãos de agentes mecânicos, químicos, biológicos ou térmicos. Existem diferentes tipos, como luvas de látex (para proteção contra agentes biológicos), de borracha (contra produtos químicos) e de couro (para proteção contra cortes e abrasões)."
+      },
+      {
+        "nome": "Óculos de proteção",
+        "descrição": "Equipamento utilizado para proteger os olhos contra projeções de partículas, radiação, produtos químicos ou riscos biológicos. Essenciais em atividades que envolvem soldagem, manuseio de produtos químicos e em laboratórios."
+      },
+      {
+        "nome": "Protetores Auriculares (ou Plugues de Ouvido)",
+        "descrição": "Equipamento usado para proteger os ouvidos contra níveis elevados de ruído, que podem causar perda auditiva permanente. Comumente usados em fábricas, canteiros de obras e áreas com exposição a ruídos excessivos."
+      },
+      {
+        "nome": "Botas de Segurança",
+        "descrição": "Calçados resistentes, geralmente com biqueira de aço ou material compósito, para proteger os pés contra quedas de objetos pesados, perfurações e escorregões. Usadas em ambientes industriais, construção civil e armazéns."
+      },
+      {
+        "nome": "Máscaras Respiratórias",
+        "descrição": "Equipamento de proteção para proteger o sistema respiratório contra a inalação de poeiras, fumos, gases ou vapores tóxicos. Podem ser desde máscaras simples até respiradores com filtro para proteção contra substâncias mais perigosas."
+      },
+      {
+        "nome": "Cinto de Segurança",
+        "descrição": "Equipamento utilizado para proteger o trabalhador de quedas em trabalhos em altura. Ele é preso a um ponto de ancoragem e é essencial em atividades como construção civil e manutenção em locais elevados."
+      },
+      {
+        "nome": "Uniforme de Proteção",
+        "descrição": "Roupas específicas para proteger o corpo contra riscos mecânicos, térmicos ou químicos. Podem ser feitos de materiais como algodão, PVC ou Nomex, dependendo do tipo de risco a que o trabalhador está exposto."
+      },
+      {
+        "nome": "Proteção Facial",
+        "descrição": "Equipamento que cobre a face para proteção contra partículas volantes, radiação ou produtos químicos. Usado por trabalhadores em atividades de soldagem, manuseio de substâncias perigosas ou em ambientes com risco de projeção de partículas."
+      },
+      {
+        "nome": "Colete de Alta Visibilidade",
+        "descrição": "Equipamento usado para garantir que o trabalhador seja facilmente visto, especialmente em ambientes com pouca luz ou em atividades que envolvem veículos, como construção de estradas e operações logísticas. Geralmente é feito de material refletivo ou fluorescente."
+      }
+    ],
+    "exames": [
+        {
+            "nome": "Exame Admissional",
+            "descrição": "Exame realizado no momento da contratação do trabalhador, com o objetivo de avaliar as condições de saúde do trabalhador antes de iniciar suas atividades. Verifica se o trabalhador está apto a exercer a função para a qual foi contratado, sem risco para sua saúde."
+        },
+        {
+            "nome": "Exame Periódico",
+            "descrição": "Exame realizado periodicamente para monitorar a saúde dos trabalhadores e detectar precocemente possíveis doenças relacionadas ao ambiente de trabalho. Geralmente é feito anualmente, mas pode ser mais frequente dependendo do risco a que o trabalhador está exposto."
+        },
+        {
+            "nome": "Exame de Retorno ao Trabalho",
+            "descrição": "Realizado quando o trabalhador retorna ao trabalho após um período de afastamento por motivo de saúde (doença ou acidente). Serve para verificar se o trabalhador está apto a retomar suas atividades sem comprometer sua saúde."
+        },
+        {
+            "nome": "Exame de Mudança de Função",
+            "descrição": "Exame realizado quando o trabalhador é transferido para uma nova função, especialmente se houver risco aumentado na nova atividade. Verifica se a saúde do trabalhador está adequada para o novo ambiente e suas condições de trabalho."
+        },
+        {
+            "nome": "Exame Demissional",
+            "descrição": "Exame realizado no momento do desligamento do trabalhador da empresa. Tem como objetivo verificar se o trabalhador está saudável no momento de sua saída e se não adquiriu doenças relacionadas ao trabalho durante seu período na empresa."
+        },
+        {
+            "nome": "Exame de Acuidade Visual",
+            "descrição": "Avalia a visão do trabalhador para verificar se ele possui condições adequadas para realizar atividades que exijam boa visão, como operar máquinas, dirigir veículos, ou trabalhar com detalhes pequenos. Essencial em ambientes de risco."
+        },
+        {
+            "nome": "Exame Audiométrico",
+            "descrição": "Exame realizado para avaliar a capacidade auditiva do trabalhador e detectar precocemente perdas auditivas causadas por exposição ao ruído no ambiente de trabalho. Deve ser feito principalmente em áreas com alto nível de ruído, como indústrias e construção civil."
+        },
+        {
+            "nome": "Exame de Função Pulmonar (Espirometria)",
+            "descrição": "Exame que avalia a capacidade pulmonar do trabalhador, principalmente em atividades com exposição a agentes respiratórios como poeiras e vapores químicos. Usado para detectar problemas pulmonares, como a pneumoconiose, e monitorar a saúde respiratória."
+        },
+        {
+            "nome": "Exame Toxicológico",
+            "descrição": "Exame utilizado para detectar a presença de substâncias químicas ou drogas no organismo do trabalhador. Comumente utilizado para profissionais que operam veículos ou máquinas pesadas, para garantir que não haja consumo de substâncias que afetem a capacidade de trabalho."
+        },
+        {
+            "nome": "Exame de Comando e Controle (ou Exame Cardíaco)",
+            "descrição": "Exame realizado para avaliar a saúde do sistema cardiovascular do trabalhador, essencial para funções que exigem esforço físico intenso ou em trabalhadores com risco de doenças cardíacas. Pode incluir teste ergométrico, eletrocardiograma (ECG), entre outros."
+        }
+        
+    ],
+    "ambientes": [
+        {
+            "nome": "Canteiro de Obras",
+            "descrição": "Local de execução de obras de construção civil, onde há movimentação intensa de materiais, máquinas pesadas e operários. Exige atenção a riscos de queda, esmagamento e ruído excessivo."
+        },
+        {
+            "nome": "Usina de Processamento Químico",
+            "descrição": "Ambiente com manuseio de produtos químicos e materiais inflamáveis. Necessário uso de EPI adequado, sistemas de ventilação, e controle rígido de riscos de exposição e explosões."
+        },
+        {
+            "nome": "Linhas de Produção Industrial",
+            "descrição": "Área de trabalho com máquinas automatizadas e trabalho em série. Exige protocolos de proteção contra acidentes com máquinas, ergonomia e procedimentos de emergência."
+        },
+        {
+            "nome": "Laboratório de Pesquisa",
+            "descrição": "Local onde são manipulados agentes químicos, biológicos ou radioativos. Exige medidas de contenção, uso de EPI específico e protocolos de descarte de resíduos perigosos."
+        },
+        {
+            "nome": "Armazém e Logística",
+            "descrição": "Ambiente de movimentação e armazenamento de grandes volumes de materiais, onde há uso frequente de empilhadeiras. Exige prevenção de acidentes com veículos, quedas de carga e controle de ergonomia."
+        },
+        {
+            "nome": "Espaço Confinado",
+            "descrição": "Local de difícil acesso, como tanques, silos ou galerias. Exige medidas de segurança específicas, como monitoramento de gases tóxicos, ventilação e autorização para entrada."
+        },
+        {
+            "nome": "Ambiente Hospitalar",
+            "descrição": "Local de cuidados à saúde com risco de contaminação biológica. Exige normas de higiene, uso de EPI, descarte correto de resíduos hospitalares e prevenção de doenças ocupacionais."
+        },
+        {
+            "nome": "Estação de Tratamento de Água e Esgoto",
+            "descrição": "Ambiente de alto risco de exposição a agentes biológicos e químicos. Exige uso de EPI adequado, procedimentos de desinfecção e monitoramento constante de gases perigosos."
+        },
+        {
+            "nome": "Mina Subterrânea",
+            "descrição": "Ambiente fechado com riscos elevados de desabamento, baixa oxigenação e exposição a gases tóxicos. Exige controle rígido de segurança e equipamentos de resgate e comunicação."
+        },
+        {
+            "nome": "Data Center",
+            "descrição": "Local de alta tecnologia com temperatura controlada e sistemas de energia robustos. Riscos principais incluem ergonomia, exposição a ruído e eletricidade, e procedimentos em caso de incêndio."
+        }
+    ],
+    "treinamentos": [
+        {
+            "nome": "Treinamento de Primeiros Socorros",
+            "descrição": "Capacita os trabalhadores a prestar os primeiros atendimentos em caso de acidentes, como cortes, queimaduras, fraturas e engasgos, até a chegada de ajuda especializada. Ensina técnicas básicas como reanimação cardiopulmonar (RCP) e controle de hemorragias."
+        },
+        {
+            "nome": "Treinamento em Segurança no Trabalho em Altura",
+            "descrição": "Ensina as técnicas e normas de segurança para trabalhadores que atuam em altura, como em andaimes, telhados ou plataformas elevadas. Inclui o uso correto de EPIs como cintos de segurança e sistemas de ancoragem, além de procedimentos de emergência."
+        },
+        {
+            "nome": "Treinamento de Uso e Manutenção de Equipamentos de Proteção Individual (EPIs)",
+            "descrição": "Capacita os trabalhadores a utilizar corretamente os EPIs fornecidos, como capacetes, luvas, botas, óculos de proteção, entre outros. Ensina a manutenção e inspeção desses equipamentos para garantir sua eficácia na prevenção de acidentes."
+        },
+        {
+            "nome": "Treinamento de Prevenção e Combate a Incêndios",
+            "descrição": "Ensina técnicas de prevenção de incêndios e o uso correto de extintores, hidrantes e outros sistemas de combate a incêndios. Inclui simulações de evacuação e procedimentos para agir em situações de emergência, visando salvar vidas e minimizar danos."
+        },
+        {
+            "nome": "Treinamento de Manuseio de Produtos Perigosos",
+            "descrição": "Capacita os trabalhadores que lidam com substâncias químicas, inflamáveis ou tóxicas a manuseá-las corretamente, evitando acidentes e exposições. Inclui o uso de EPIs adequados, procedimentos de emergência e armazenamento seguro dos produtos."
+        },
+        {
+            "nome": "Treinamento de Ergonomia",
+            "descrição": "Ensina boas práticas ergonômicas para evitar lesões ocupacionais, como lesões por esforço repetitivo (LER), distúrbios osteomusculares (DORT) e problemas posturais. Inclui orientações sobre postura correta, ajustes de mobiliário e pausas durante o trabalho."
+        },
+        {
+            "nome": "Treinamento de Segurança em Máquinas e Equipamentos",
+            "descrição": "Capacita os trabalhadores para operar máquinas e equipamentos industriais com segurança, conhecendo seus sistemas de proteção, riscos e manutenção. Ensina como evitar acidentes relacionados a falhas de operação ou mau uso das máquinas."
+        },
+        {
+            "nome": "Treinamento de Espaços Confinados",
+            "descrição": "Ensina como trabalhar de forma segura em espaços confinados, como tanques, silos e galerias subterrâneas, onde há risco de asfixia, explosão e falta de oxigênio. Inclui o uso de equipamentos de ventilação, monitoramento de gases e procedimentos de resgate."
+        },
+        {
+            "nome": "Treinamento de Segurança Elétrica",
+            "descrição": "Capacita os trabalhadores a identificar e evitar os riscos elétricos no ambiente de trabalho. Inclui o uso de equipamentos adequados de proteção (luvas, calçados isolantes, etc.), além de orientações sobre como realizar bloqueios e garantias de segurança durante manutenções."
+        },
+        {
+            "nome": "Treinamento de Carga e Descarga",
+            "descrição": "Ensina as técnicas seguras para o manuseio de cargas, seja em transporte rodoviário, ferroviário ou em armazéns. Inclui o uso adequado de EPIs, como cintos de segurança e calçados apropriados, além de treinamento sobre técnicas de levantamento e movimentação de cargas pesadas."
+        }
+    ]
+}

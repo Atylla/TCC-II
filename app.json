@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Base",
+    "android": {
+      "permissions": ["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"]
+    },
+    "slug": "Base",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "9fc88657-77b9-4678-9d5f-07c4dc3d76ae"
+      }
+    },
+    "owner": "atizk"
+  }
+}
